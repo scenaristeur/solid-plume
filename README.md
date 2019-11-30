@@ -27,6 +27,7 @@ just use the "?blog=" parameter :
 or
 ° http://localhost:8443/?blog=https://agora.solid.community/public/posts/
 
+## creation branche multiblogpod
 
 
 ## Deployement on Pod error
